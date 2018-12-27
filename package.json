@@ -1,0 +1,22 @@
+{
+  "name": "log_project",
+  "version": "1.0.0",
+  "description": "log app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "log"
+  ],
+  "author": "prachi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "node-gyp": "^3.8.0",
+    "socket.io": "^2.2.0",
+    "util": "^0.11.1",
+    "websocket": "^1.0.28"
+  }
+}
